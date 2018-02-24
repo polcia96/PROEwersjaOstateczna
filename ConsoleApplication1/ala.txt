@@ -1,0 +1,6 @@
+
+PRODUKT-poczatek
+nazwa< ala
+cena: 14 zl
+czas oczekiwania: 2 min
+PRODUKT-koniec
